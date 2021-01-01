@@ -121,6 +121,106 @@ Goldcycle
 
 ![Goldcycle](https://user-images.githubusercontent.com/59575502/103436792-899aa580-4c45-11eb-9d29-486494c42aee.gif)
 
+Stranger Things
+
+![Stranger Things](https://user-images.githubusercontent.com/59575502/103443649-832d1d80-4c87-11eb-8c37-68c45b68cdf5.gif)
+
+TransitionEffect
+
+![TransitionEffect1](https://user-images.githubusercontent.com/59575502/103443652-888a6800-4c87-11eb-8192-143d694b4056.gif)
+
+TreeLeafAnimation
+
+![TreeLeafAnimation](https://user-images.githubusercontent.com/59575502/103443653-89bb9500-4c87-11eb-8947-b3c2a0ad0aba.gif)
+
+TriangleHollow
+
+![TriangleHollow](https://user-images.githubusercontent.com/59575502/103443654-8aecc200-4c87-11eb-9016-4645dc07b7dd.gif)
+
+UpandDown
+
+![UpandDown](https://user-images.githubusercontent.com/59575502/103443657-8d4f1c00-4c87-11eb-8547-d6baef9eeecc.gif)
+
+Plasmaball
+
+![Plasmaball](https://user-images.githubusercontent.com/59575502/103443659-8f18df80-4c87-11eb-94f8-0fd0e858a15a.png)
+
+RainRoad
+
+![RainRoad](https://user-images.githubusercontent.com/59575502/103443660-904a0c80-4c87-11eb-9710-73cfbe96c4e3.png)
+
+Tomb Environment
+
+![Tomb Environment](https://user-images.githubusercontent.com/59575502/103443661-90e2a300-4c87-11eb-8413-64d0402dac88.png)
+
+SciFiEnvironment
+
+![SciFiEnvironment](https://user-images.githubusercontent.com/59575502/103443663-9213d000-4c87-11eb-8574-2f27f46064d4.png)
+
+Torus
+
+![Torus](https://user-images.githubusercontent.com/59575502/103443664-92ac6680-4c87-11eb-8fbd-185475b193aa.png)
+
+SciFiRock
+
+![SciFiRock](https://user-images.githubusercontent.com/59575502/103443670-9cce6500-4c87-11eb-98a0-ff74b477c2cb.gif)
+
+TunnelSciFi
+
+![TunnelSciFi](https://user-images.githubusercontent.com/59575502/103443674-a1931900-4c87-11eb-9b58-5b279e979a3b.gif)
+
+TriangularSCiFi
+
+![TriangularSCiFi](https://user-images.githubusercontent.com/59575502/103443675-a3f57300-4c87-11eb-8720-f785bd0f388b.gif)
+
+TurnUrHead
+
+![TurnUrHead](https://user-images.githubusercontent.com/59575502/103443677-a657cd00-4c87-11eb-857a-3963d5b1c88b.png)
+
+Sneaker
+
+![Sneaker](https://user-images.githubusercontent.com/59575502/103443678-a8ba2700-4c87-11eb-9e77-b2b140c7565d.gif)
+
+WineGlass
+
+![WineGlass](https://user-images.githubusercontent.com/59575502/103443746-372ea880-4c88-11eb-9b2b-46bddab3b93f.png)
+
+S
+
+![S](https://user-images.githubusercontent.com/59575502/103443747-385fd580-4c88-11eb-95f4-5b3ea6530d23.png)
+
+Redcube
+
+![Redcube](https://user-images.githubusercontent.com/59575502/103443748-38f86c00-4c88-11eb-8ac7-b23299cb429b.png)
+
+Wavepattern
+
+![Wavepattern](https://user-images.githubusercontent.com/59575502/103443750-3eee4d00-4c88-11eb-92a8-13bd28682dbc.gif)
+
+Vibrantspace
+
+![Vibrantspace](https://user-images.githubusercontent.com/59575502/103443752-41e93d80-4c88-11eb-9aac-b9adebf739e0.gif)
+
+StrangeCity
+
+![StrangeCity](https://user-images.githubusercontent.com/59575502/103443754-457cc480-4c88-11eb-9030-5e19d50bcb53.gif)
+
+Text
+
+![Text](https://user-images.githubusercontent.com/59575502/103443755-47468800-4c88-11eb-82ce-87c4bceb04ae.gif)
+
+Shaders(1-8) & RustWorld
+
+![Shaders(1-8)   RustWorld](https://user-images.githubusercontent.com/59575502/103443757-49a8e200-4c88-11eb-8e44-4c9785fc3f2c.jpg)
+
+SpaceParticles
+
+![SpaceParticles](https://user-images.githubusercontent.com/59575502/103443758-4a417880-4c88-11eb-8487-55f4c93eeebe.gif)
+
+RotatingText
+
+![RotatingText](https://user-images.githubusercontent.com/59575502/103443759-4c0b3c00-4c88-11eb-80b8-d7e97c8a2a39.gif)
+
 LEGOcrash
 
 ![LEGOcrash](https://user-images.githubusercontent.com/59575502/103436832-fdd54900-4c45-11eb-8285-3845e0a0488f.gif)
@@ -156,6 +256,7 @@ Planets
 PlanetSCiFi
 
 ![PlanetSiFi](https://user-images.githubusercontent.com/59575502/103439132-63363380-4c60-11eb-90d2-5995073aa0e6.gif)
+
 
 Plane
 
@@ -256,6 +357,38 @@ Lightsaber
 AmongUS
 
 ![AmongUS](https://user-images.githubusercontent.com/59575502/103434464-9c9e7d00-4c27-11eb-99f2-74001cbb8223.jpg)
+
+Pokemon
+
+![Pokemon](https://user-images.githubusercontent.com/59575502/103443926-bcff2380-4c89-11eb-8111-4110bdcc0874.png)
+
+Wall Breaking
+
+![Wall Breaking](https://user-images.githubusercontent.com/59575502/103443928-bf617d80-4c89-11eb-8404-bf3e5316a792.gif)
+
+RoundAbstract
+
+![RoundAbstract](https://user-images.githubusercontent.com/59575502/103443930-c092aa80-4c89-11eb-8c34-67ed9eecdff9.png)
+
+Tornado
+
+![Tornado](https://user-images.githubusercontent.com/59575502/103443931-c25c6e00-4c89-11eb-8e6c-b29e78d20d6e.png)
+
+WaterDropBall
+
+![WaterDropBall](https://user-images.githubusercontent.com/59575502/103443932-c4bec800-4c89-11eb-849b-34404bd0f660.jpg)
+
+Randomtile
+
+![Randomtile](https://user-images.githubusercontent.com/59575502/103443933-c5575e80-4c89-11eb-9cc9-3181d2dae65e.gif)
+
+TableTennisAnimation
+
+![TableTennisAnimation](https://user-images.githubusercontent.com/59575502/103443669-9b9d3800-4c87-11eb-968a-eeec9f6173de.gif)
+
+Transform
+
+![Transform](https://user-images.githubusercontent.com/59575502/103443761-4e6d9600-4c88-11eb-9ab2-0004638708e3.gif)
 
 Pattern3
 
