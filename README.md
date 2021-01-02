@@ -8,11 +8,7 @@
 Blender is an open source 3D creation suite that supports the 3D pipeline, modeling, rigging, animation, simulation, rendering, compositing, and motion tracking, video editing, and game creation.
 </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click [here](https://www.blender.org/download/) to download Blender.
-
+Click 🌊[here](https://www.blender.org/download/) to 🦖download Blender🪀
 <details><summary><b>Show Detailed Table:</b></summary>
   
 * [AmongUS](#AmongUS)
