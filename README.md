@@ -9,7 +9,7 @@ Blender is an open source 3D creation suite that supports the 3D pipeline, model
 </p>
 
 <p align="center"><b> Click 🌊<a href = "https://www.blender.org/download/">here </a>to 🦖download Blender🪀</b>
-  
+<br/>
 <a href="http://makeapullrequest.com">
   <img align="center"  src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>
 </a>
